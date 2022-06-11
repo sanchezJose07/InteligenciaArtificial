@@ -10,9 +10,9 @@ Ingresar links: Aquiere [Visual Studio](https://visualstudio.microsoft.com/es/do
 ---
 
 ### Imagenes
-![gatito 1](Imagenes\lo-que-tienes-que-saber-si-te-decides-por-adoptar-un-gatito1.png) 500x334
+![gatito 1](https://github.com/sanchezJose07/InteligenciaArtificial/blob/main/imagenes/gatito2.png) 500x334
 ![gatito 2](https://github.com/sanchezJose07/InteligenciaArtificial/blob/main/imagenes/gatito1.png) 200x133
-![gatito 3](Imagenes\lo-que-tienes-que-saber-si-te-decides-por-adoptar-un-gatito2.png) 675x450
+![gatito 3](https://github.com/sanchezJose07/InteligenciaArtificial/blob/main/imagenes/gatito3.png) 675x450
 ###### hola
 > barra
 1. Primero

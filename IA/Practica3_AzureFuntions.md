@@ -1,7 +1,7 @@
 # Azure Funtions
 ---
 ### Objetivo
-- Implementar el servicio de azure Azure Funtions
+- Implementar el servicio de azure Azure Funtions para obtener datos a partir del lo que le ingresemos 
 ### Caracteristicas
 
 ![Azure Funtions](https://github.com/sanchezJose07/InteligenciaArtificial/blob/main/imagenes/AF0.png)

@@ -67,4 +67,3 @@
 ![]()
 24. Finalmente twiteamos con el hashtag designado y vemso que nuestra hoja de calculo se esta llenando
 ![]()
-

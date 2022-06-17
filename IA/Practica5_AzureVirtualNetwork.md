@@ -1,10 +1,11 @@
 # Azure Virtual Network 
 --- 
 ### Objetivo
+- Crear dos redes virtuales y conectarlas entre si a partir de una maquina virtual.
 ### Caracteristicas
 ![]()
 ### Procedimiento
-1. Abrir Microsoft Azure
+1. Abrir Microsoft Azure y abrimos el servicio de redes virtuales
 2. Crear un grupo de recursos
 ![]()
 3. Llenamos los datos solicitados y creamos
